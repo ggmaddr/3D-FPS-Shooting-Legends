@@ -1,4 +1,6 @@
-🔗3D TPS Shooting Legends| Unreal Engine 5, C++, 3D Modeling, Animation, Blueprint Scripting, Collison Detection
+# Unreal Engine 5, C++, 3D Modeling, Animation, Blueprint Scripting, Collison Detection
+
+🔗3D TPS Shooting Legends| 
 - Designed and implemented (FPS) shooting game using Unreal Engine 5, C++, and AI controllers.
 - Engineered artificial intelligence (AI) components, including AI controllers, navigation meshes, and behavior trees to create challenging and interactive enemy entities with complex decision-making capabilities.
 - Developed advanced features: skeletal animations, animation blueprints, and 2D blend spaces, enhancing the visual appeal and realism of character movements.
